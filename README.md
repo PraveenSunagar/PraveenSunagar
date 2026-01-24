@@ -1,4 +1,4 @@
-<img width="1826" height="809" alt="image" src="https://github.com/user-attachments/assets/79b1b04a-ae2d-423d-85bb-2a6ec1d3dac5" /># Hi 👋, I'm Praveen Sunagar
+# Hi 👋, I'm Praveen Sunagar
 
 ### A passionate AI developer from India 🇮🇳
 
