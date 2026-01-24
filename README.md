@@ -1,16 +1,11 @@
-# Hi 👋, I'm Praveen Sunagar
+<img width="1826" height="809" alt="image" src="https://github.com/user-attachments/assets/79b1b04a-ae2d-423d-85bb-2a6ec1d3dac5" /># Hi 👋, I'm Praveen Sunagar
 
 ### A passionate AI developer from India 🇮🇳
 
-- 🌱 I’m currently learning:
-- Artificial Intelligence 🤖
-- Machine Learning 📊
-- Python for AI 🐍
-- Data Science basics 📈
+- 🌱 I’m currently learning
+- :**Python for AI 🐍,ML,Artificial Intelligency🤖,DataScience basics📈**
 - 💻 Projects:
-- AI & ML mini projects
-- Python practice projects
-- Learning-based experiments
+- **AISCAMDETECTION**
 - 📄 Check out my resume here – [My Resume](https://your-resume-link)
 - 💻 All of my projects are available on [GitHub](https://github.com/Praveensunagar)
 - 💬 Ask me about **Apps, Backend and Artificial Intelligence**
