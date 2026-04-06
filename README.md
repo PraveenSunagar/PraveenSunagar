@@ -2,7 +2,7 @@
 
 ### A passionate AI developer from India 🇮🇳
 
-- 🌱 I’m currently learning:**Python for AI,ML,Artificial Intelligency🤖,DataScience basics📈**
+- 🌱 I’m currently learning:**Python for AI,ML,Artificial Intelligency🤖,DataScience Basics📈**
 - 💻 Projects:**AI SCAM DETECTION,Medical Imaging Diagnosis**
 - 🛠 Skills:**Python-(Deep-Learning),JavaScripts,FastAPI,MongoDB,SQL**
 - 📑 Check out my resume here – [My Resume](./AI%20developer%20resume(1).pdf)
