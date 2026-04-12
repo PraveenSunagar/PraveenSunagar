@@ -3,7 +3,7 @@
 ### A passionate AI developer from India 🇮🇳
 
 - 🌱 I’m currently learning:**Python for AI,ML,Artificial Intelligency🤖,DataScience Basics📈**
-- 💻 Projects:**AI SCAM DETECTION,MEDICAL Imaging Diagnosis**
+- 💻 Projects:**AI SCAM DETECTION,MEDICAL IMAGING Diagnosis**
 - 🛠 Skills:**Python-(Deep-Learning),JavaScripts,FastAPI,MongoDB,SQL**
 - 📑 Check out my resume here – [My Resume](./AI%20developer%20resume(1).pdf)
 - 💻 All of my projects are available on [GitHub](https://github.com/PraveenSunagar)
