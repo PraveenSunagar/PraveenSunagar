@@ -1,6 +1,6 @@
    # Hi 👋, I'm Praveen Sunagar
 
-### A passionate AI developer from India 🇮🇳
+### A passionate AI developer + Cyber Security  from India 🇮🇳
 
 - 🌱 I’m currently learning:**Python for AI,ML,Artificial Intelligency🤖,DataScience Basics📈**
 - 💻 Projects:**AI SCAM DETECTION,MEDICAL IMAGING Diagnosis**
