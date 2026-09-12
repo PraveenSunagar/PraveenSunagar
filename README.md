@@ -3,7 +3,7 @@
 ### A passionate Cyber Security + AI developer  from India 🇮🇳
 
 - 🌱 I’m currently learning:**AI & Cyber security Developer | Python | AI/ML | SOC | Security Automation , DataScience Basics📈**
-- 💻 Projects:**AI SCAM DETECTION**
+- 💻 Projects:**AI SCAM DETECTION,NIDS**
 - 🛠 Skills:**Python-(Deep-Learning),JavaScripts,FastAPI,MongoDB,SQL**
 - 📑 Check out my resume here – [My Resume])
 - 💻 All of my projects are available on [GitHub](https://github.com/PraveenSunagar)
