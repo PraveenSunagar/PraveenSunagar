@@ -2,7 +2,7 @@
 
 ### A passionate Cyber Security + AI developer  from India 🇮🇳
 
-- 🌱 I’m currently learning:**SOC L1, L2, AI-ML, Artificial-Intelligency🤖, DataScience Basics📈**
+- 🌱 I’m currently learning:**AI & Cyber security Developer | Python | AI/ML | SOC | Security Automation , DataScience Basics📈**
 - 💻 Projects:**AI SCAM DETECTION**
 - 🛠 Skills:**Python-(Deep-Learning),JavaScripts,FastAPI,MongoDB,SQL**
 - 📑 Check out my resume here – [My Resume])
